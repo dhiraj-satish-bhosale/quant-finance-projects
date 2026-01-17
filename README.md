@@ -13,6 +13,7 @@ Each project demonstrates real-world applications of financial modeling, risk ma
 | 2 | **Monte Carlo VaR** | Risk Modeling | Probabilistic Loss Simulation |
 | 3 | **P/B vs ROE** | Valuation Correlation | Regression, Sectoral Benchmarking |
 | 4 | **EV/EBITDA vs ROCE** | Cross-Sector Valuation | EDA, Visualization, Capital Efficiency |
+| 5 | **Nifty Volatility Surface** | IV Dependant on Strike Price and Expiry | - |
 
 ---
 
